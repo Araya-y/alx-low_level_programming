@@ -8,7 +8,6 @@
  * @s2: second string
  *
  * Return: newly allocated space in memory which contains s1, followed s2
- *
  */
 char *str_concat(char *s1, char *s2)
 {
